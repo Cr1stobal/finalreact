@@ -1,0 +1,12 @@
+.banner{
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/jjgtiendatcc.appspot.com/o/banner.jpg?alt=media&token=277b2663-b94b-4bd8-b6de-0b3c113541c9');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+
+}
+
+.icono{
+    font-size: 80px;
+}
