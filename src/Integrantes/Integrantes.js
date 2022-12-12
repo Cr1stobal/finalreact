@@ -40,20 +40,20 @@ export function Integrantes(){
         return (
             <>
               <h1>{titulo}</h1>
-              <div class="container">
-                <div class="row row-cols-1 row-cols-md-3 g-5">
+              <div className="container">
+                <div className="row row-cols-1 row-cols-md-3 g-5">
                   {integrantes.map(function (integrantes) {
                     return (
                       <>
-                        <div class="col">
-                          <div class="card h-100 shadow">
+                        <div className="col">
+                          <div className="card h-100 shadow">
                             <img
                               src={integrantes.foto}
                               alt="foto"
-                              class="h-100 img fluid w-100"
+                              className="h-100 img fluid w-100"
                             />
-                            <h2 class="text-center">{integrantes.nombre}</h2>
-                            <p class="text-center">Precio: {integrantes.Biografia
+                            <h2 className="text-center">{integrantes.nombre}</h2>
+                            <p className="text-center">Precio: {integrantes.Biografia
                             }$</p>
                           </div>
                         </div>
