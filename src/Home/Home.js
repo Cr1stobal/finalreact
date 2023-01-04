@@ -15,11 +15,11 @@ export function Home(){
                 <div className="container my-5">
                     <div className="row">
                         <div className="col-12 col-md-8">
-                            <h2>INCUBUS</h2>
+                            <h2>SLIPKNOT</h2>
                             <p>
-                                Incubus es una banda de rock alternativo estadounidense formado por el vocalista Brandon Boyd, guitarrista Mike Einziger y batería José Pasillas cuando estudiaban juntos y después expandieron con la inclusión del bajista Alex "Dirk Lance" Katunich y Gavin "DJ Lyfe" Koppell; ambos reemplazados finalmente por Ben Kenney y DJ Kilmore respectivamente. Para el 2001 tuvieron un enorme éxito con el sencillo "Drive", seguido de su álbum Morning View. En 2003, la banda establece la fundación "Make Yourself Foundation" para donar dinero a fundaciones de beneficencia
+                            Slipknot es una banda estadounidense de metal alternativo formada en 1995 en Des Moines, Iowa, Estados Unidos. Sus integrantes en la actualidad son Corey Taylor, Craig Jones, Jim Root, Mick Thomson, Shawn Crahan y Sid Wilson. Slipknot es conocida por las máscaras características de cada uno de sus miembros, que cambian conforme han sacado más discografía.
                             </p>
-                            <img src="https://firebasestorage.googleapis.com/v0/b/jjgtiendatcc.appspot.com/o/21753018_10155226596903999_29998736812000224_o.jpg?alt=media&token=335e9325-5a9f-4fe9-ba57-0a2333222108" className="img-fluid w-100"></img>
+                            <img src="https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/slipknotConciert.jpg?alt=media&token=5e1f1171-5196-47c9-835e-b2a2c992e39b" className="img-fluid w-100"></img>
                         </div>
 
                         <div className="col-12 col-md-4 border-start align-self-center bg-dark text-white p-5">
@@ -34,8 +34,8 @@ export function Home(){
                                  <i className="bi bi-vinyl-fill icono fw-bold"></i>
                                 </div>
                                 <div className="col-9 text-start align-self-center">
-                                    <h3 className="fw-bold">Med</h3>
-                                    <h5>Dec 2</h5>
+                                    <h3 className="fw-bold">Medellin</h3>
+                                    <h5>Diciembre 2</h5>
                                 </div>
                             </div>  
 
@@ -45,7 +45,7 @@ export function Home(){
                                 </div>
                                 <div className="col-9 text-start align-self-center">
                                     <h3 className="fw-bold">Cali</h3>
-                                    <h5>Dec 3</h5>
+                                    <h5>Diciembre 3</h5>
                                 </div>
                             </div>  
 
@@ -54,8 +54,8 @@ export function Home(){
                                  <i className="bi bi-vinyl-fill icono fw-bold"></i>
                                 </div>
                                 <div className="col-9 text-start align-self-center">
-                                    <h3 className="fw-bold">Bog</h3>
-                                    <h5>Dec 4</h5>
+                                    <h3 className="fw-bold">Bogota</h3>
+                                    <h5>Diciembre 4</h5>
                                 </div>
                             </div>  
 
@@ -64,8 +64,8 @@ export function Home(){
                                  <i className="bi bi-vinyl-fill icono fw-bold"></i>
                                 </div>
                                 <div className="col-9 text-start align-self-center">
-                                    <h3 className="fw-bold">Barr</h3>
-                                    <h5>Dec 5</h5>
+                                    <h3 className="fw-bold">Barranquilla</h3>
+                                    <h5>Diciembre 5</h5>
                                 </div>
                             </div>  
 
@@ -79,19 +79,21 @@ export function Home(){
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-12 col-md-4">
-                           <img src="https://firebasestorage.googleapis.com/v0/b/jjgtiendatcc.appspot.com/o/noticia1.jpg?alt=media&token=9e1fb4de-d6ea-468f-bc92-90f40ab7be62" alt="" className="img-fluid w-100"/>
+                           <img src="https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/FlayerSlipk.jpg?alt=media&token=82d60e82-0da0-461a-96ee-ab20e777a6c1" alt="" className="img-fluid w-100"/>
                            <h1>NOTICIAS</h1>
-                           <p>En 2019, Incubus estuvo conmemorando los 20 años de su álbum Make Yourself, material que contiene sencillos tan icónicos como "Drive". La banda californiana realizó por entonces apariciones televisivas especiales y una gira por los Estados Unidos.</p>
+                           <p>Ya informamos de ello hace más de un año y ha vuelto a suceder. Shawn "Clown" Crahan ha ofrecido más información sobre el disco inédito ‘Look Outside Your Window’. El percusionista de Slipknot ha vuelto a decir que siguen en marcha los planes para sacar el conjunto de 11 canciones grabadas por cuatro miembros de la banda durante las sesiones de grabación de su LP "All Hope Is Gone" (2018).</p>
                         </div>
                         <div className="col-12 col-md-4">
-                           <img src="https://firebasestorage.googleapis.com/v0/b/jjgtiendatcc.appspot.com/o/noticia2.webp?alt=media&token=83bf541c-e9eb-4d28-96ed-3211e7f51207" alt="" className="img-fluid w-100"/>
+                           <img src="https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/Flayer2Slipk.jpg?alt=media&token=3b3ed750-813d-42a3-857f-69557b148e23" alt="" className="img-fluid w-100"/>
                            <h1>NOTICIAS</h1>
-                           <p>Incubus publicó "Drive" en 1999. Dicho tema contenido en el álbum Make Yourself se convirtió en un gran hit casi al instante a nivel global. Dos décadas después de tal suceso, la banda oriunda de California interpretó en vivo esa canción en la televisión estadounidense. El video de su apasionada presentación se puede ver al final de este texto.</p>
+                           <p>El Hell and Heaven sigue con su misión de conformar un cartel épico para ser recordado por años. El festival de metal y rock más importante del continente americano se alista para presentar la edición más grande e imponente de su historia, y confirma al resto del elenco que participará en su entrega 2022.
+                            https://www.milenio.com/espectaculos/hell-and-heaven-busca-cartel-epico-recordado </p>
                         </div>
                         <div className="col-12 col-md-4">
-                           <img src="https://firebasestorage.googleapis.com/v0/b/jjgtiendatcc.appspot.com/o/noticia3.jpg?alt=media&token=8dedd25e-e9cc-41aa-a025-06805502a575" alt="" className="img-fluid w-100"/>
+                           <img src="https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/SlipknotFlayer.jpg?alt=media&token=43c7f554-8bb4-4c13-b62c-170fd92170da" alt="" className="img-fluid w-100"/>
                            <h1>NOTICIAS</h1>
-                           <p>Incubus llegará en el marco de su tour de promoción de su último disco de estudio 8. La fecha en Argentina será el próximo 28 de septiembre en el DirecTV Arena, en Chile el 26 de septiembre en el Movistar Arena, en Perú se presentará junto a Maroon 5 el martes 19 de septiembre y en Brasil en el marco del Rock in Rio, el 23 de septiembre.</p>
+                           <p>Los fanáticos del metal, y especialmente los de la banda Slipknot, tendrán que esperar para disfrutar de su pasión, pues Hell and Heaven 2021 pospuso su edición de este año, como consecuencia de las restricciones sanitarias que emanaron por la pandemia de covid-19.
+                            https://www.milenio.com/espectaculos/musica/hell-and-heaven-2021-posponen-festival-rock-slipknot-2022 </p>
                         </div>
                     </div>
                 </div>
