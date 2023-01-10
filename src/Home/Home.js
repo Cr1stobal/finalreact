@@ -25,7 +25,7 @@ export function Home(){
                         <div className="col-12 col-md-4 border-start align-self-center bg-dark text-white p-5">
                             <div className="row">
                                 <div className="col-12 text-center">
-                                    <h1 className="fw-bold">Proximos Conciertos</h1>
+                                    <h1 className="fw-bold">SLIPKNOT EN COLOMBIA</h1>
                                     <hr></hr>
                                 </div>
                             </div>

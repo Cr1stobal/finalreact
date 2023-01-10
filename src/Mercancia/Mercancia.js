@@ -35,8 +35,8 @@ export function Mercancia(){
             precio:90
         },
         {
-            nombre:"Mascota INCUBUS",
-            foto:"",
+            nombre:"Funko Craig Jones Slipknot",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/funkslipk.jpg?alt=media&token=98677862-cc43-4f27-912e-08954b67c5ca",
             precio:25
         }
     ]
@@ -49,7 +49,7 @@ export function Mercancia(){
                 <div className="row row-cols-1 row-cols-md-3 g-5">
 
                     {
-                       productos.map(function(producto,id){
+                       productos.map(function(producto,id,){
                         return( 
                             <div key={id}>
                                 <div className="col">
