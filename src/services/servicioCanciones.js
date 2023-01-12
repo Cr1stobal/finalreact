@@ -10,14 +10,14 @@ export async function servicioCancionesTop(){
     //autentificar y configurar la peticion de envio hacia el servidor "autorizacion"
     const peticion={
         method: "GET",
-        headers:{Authorization:"Bearer BQBcO89PasZfbAmzCMWAHUsHYOUI3lnfMTNZuNynohisaGtXqRgGJ7Bj_0O0FoJXhi7omioJCkbmyuh3Kuga4jf9DVRgaEnVqE_jnq9VY_MeL6Ci8qfVzLxCY4wTp5uMPY6-8bGrNMNyX7FuiW_7RFDi1kyaHbgkuQkZNgXKFbZxqfoJpThHkRyp-RhGI9Q"}
+        headers:{Authorization:"Bearer BQAW319INd6Kffpz-ki9vUdc6808NBwYD0v1NmuRk2tkm4GIHurVSE475_VS1A3M_bi_ioM3vJ92XGxd9TXGhN_2rtjHJr6b7JtrYWFVW9mupmHI3oPUhqZ9WvhM6Bdyx1vOSDJ1b4C9j6YOsoEWCDk-17qMj4xGaBt0Q8ox1iYcacPiIFMxjRM62f6oJfg"}
     }
 
     //Leccion tres de la receta "Consumimos el api"
     let respuesta=await fetch(URL,peticion)
     let canciones=await respuesta.json()
 
-    console.log(canciones)
+    return canciones
 
 
 }
