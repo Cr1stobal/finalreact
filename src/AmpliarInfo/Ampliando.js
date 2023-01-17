@@ -73,10 +73,10 @@ export function Ampliando() {
                   Lo hacemos mejor cada día: afinamos cada detalle para
                   garantizar la cali
                 </li>
-                
+
               </ul>
             </li>
-         
+
           </ul>
         </div>
       </div>

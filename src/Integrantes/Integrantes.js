@@ -1,6 +1,6 @@
 import { Footer } from "../shared/Footer/Footer";
 export function Integrantes() {
-  let titulo = "Integrantes";
+  let titulo = "Integrante";
 
   let integrantes = [
     {
@@ -37,7 +37,7 @@ export function Integrantes() {
 
   return (
     <>
-      <h1>{titulo}</h1>
+      <h1 className="text-center">{titulo}</h1>
       <div className="container">
         <div className="row row-cols-1 row-cols-md-3 g-5">
           {integrantes.map(function (integrante) {

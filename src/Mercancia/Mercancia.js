@@ -21,7 +21,7 @@ export function Mercancia(){
         
     }
 
-    let titulo="Productos de la banda..."
+    let titulo="Productos de la banda"
 
     let productos=[
         {
@@ -62,7 +62,7 @@ export function Mercancia(){
 
     return(
         <>
-            <h1>{titulo}</h1>
+            <h1 className='text-center'>{titulo}</h1>
             <div className="container">
                 <div className="row row-cols-1 row-cols-md-3 g-5">
 
