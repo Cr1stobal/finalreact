@@ -1,6 +1,7 @@
 import {Footer} from '../shared/Footer/Footer'
 import { useNavigate } from 'react-router-dom'
 
+
 export function Mercancia(){
 
 
@@ -25,7 +26,7 @@ export function Mercancia(){
     let productos=[
         {
             nombre:"Camiseta original Slipknot",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/CamisetaSlipk.jpg?alt=media&token=88c9968f-878d-4faf-8817-7d4cf20df984",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/camisetaSlipknot1.png?alt=media&token=97c24a04-ffbd-4035-ada2-2e921a13941d",
             precio:40
 
         },
@@ -38,7 +39,24 @@ export function Mercancia(){
             nombre:"Funko Craig Jones Slipknot",
             foto:"https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/funkslipk.jpg?alt=media&token=98677862-cc43-4f27-912e-08954b67c5ca",
             precio:25
-        }
+        },
+        {
+            nombre:"Estuce Slipknot",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/Estuche.png?alt=media&token=68a819ba-8051-43da-9160-2deecc680324",
+            precio:10
+        },
+        {
+            nombre:"Mug slipknot",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/taza-slipknot.jpg?alt=media&token=3c899aee-7af5-41a5-8ed4-e34300fe5726",
+            precio:"25"
+        },
+        {
+            nombre:"Adorno ",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotycaa.appspot.com/o/Adorno.png?alt=media&token=9cc3cb1f-169f-4bdc-9afa-fc4fb00c779e",
+            precio:"250"
+        },
+
+        
     ]
 
 
@@ -60,7 +78,7 @@ export function Mercancia(){
                                         <img src={producto.foto} alt="foto" className="h-100 img-fluid w-100" />
 
 
-                                        <button className='btn btn-primary mx-5 my-3' onClick={
+                                        <button className='btn btn-primary mx-4 my-2' onClick={
                                             function(){
                                                 detectarEvento(producto)
                                             }
