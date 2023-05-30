@@ -43,12 +43,12 @@ export function Ampliando() {
             <p className="text-success fw-bold">
               Envio gratis a nivel nacional
             </p>
-            <p>Conoce los tiempos y las formas de envio.</p>
+           
 
             <i class="bi bi-arrow-counterclockwise mt-5 fs-1 text-success"></i>
             <i class="mt-5 fs-2 bi bi-truck text-success"></i>
             <p className="text-success fw-bold">Devolucion gratis</p>
-            <p>30 dias para reembolso</p>
+            
           </div>
           <br />
 
